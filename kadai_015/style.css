@@ -23,7 +23,6 @@ body {
 }
 
 
-.p,
-#basic {
+#basic p {
     font-weight: bold;
 }
